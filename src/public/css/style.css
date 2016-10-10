@@ -1,6 +1,6 @@
 .panel-primary > .panel-heading {
     color: #fff;
-    background-color: #fa6121;
+    background-color: #fff;
     border-color: #60556d;
     border-width: 4px;
 }
@@ -16,4 +16,9 @@ header::before {
     content: url("https://bullcity.lawyer/wp-content/uploads/2016/10/Visa-Assistant-Chat-Logo.png");
     vertical-align: top;
     margin-right: 1em;
+}
+
+.btn-warning {
+    background-color: #fa6121;
+    border-color: #3d4b5e;
 }
